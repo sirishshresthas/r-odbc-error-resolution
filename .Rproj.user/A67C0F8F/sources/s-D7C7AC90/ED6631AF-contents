@@ -1,0 +1,9 @@
+default: 
+  sqldb_config:
+    Driver: 'sql driver name'
+    Server: 'server_name'
+    Database: 'dbname'
+    Port: 1433
+    Encrypt: 'yes'
+    UID: 'username'
+    PWD: 'password'

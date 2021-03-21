@@ -1,0 +1,9 @@
+default: 
+  sqldb_config:
+    Driver: 'SQL Server Native Client 11.0'
+    Server: 'sql-bi-eus-dev-ccl.database.windows.net'
+    Database: 'TalentXRay'
+    Port: 1433
+    Encrypt: 'yes'
+    UID: 'etllogin'
+    PWD: 'Passtab-1'

@@ -1,1 +1,4 @@
 config.yml
+.Rproj.user
+.RData
+.Rhistory

@@ -1,9 +1,9 @@
 default: 
   sqldb_config:
-    Driver: 'sql driver name'
-    Server: 'server_name'
-    Database: 'dbname'
+    Driver: 'SQL Server'
+    Server: 'ZEUSDW12'
+    Database: 'LDP360_View_All'
     Port: 1433
     Encrypt: 'yes'
-    UID: 'username'
-    PWD: 'password'
+    UID: 'shresthas@ccl.org'
+    PWD: ''
